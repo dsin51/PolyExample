@@ -16,7 +16,7 @@ public class LuxuryCar implements Automobile {
 
 	@Override
 	public String getModel() {
-		return null;
+		return "WagonR";
 	}
 
 }
